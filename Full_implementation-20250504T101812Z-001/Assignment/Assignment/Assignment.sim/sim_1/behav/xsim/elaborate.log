@@ -1,0 +1,21 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot RISCV_ToP_Tb_behav xil_defaultlib.RISCV_ToP_Tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3705] select index 64 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:57]
+WARNING: [VRFC 10-3705] select index 68 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:58]
+WARNING: [VRFC 10-3705] select index 72 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:60]
+WARNING: [VRFC 10-3705] select index 76 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:61]
+WARNING: [VRFC 10-3705] select index 80 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:62]
+WARNING: [VRFC 10-3705] select index 84 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:64]
+WARNING: [VRFC 10-3705] select index 86 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:65]
+WARNING: [VRFC 10-3705] select index 90 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:66]
+WARNING: [VRFC 10-3705] select index 94 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:68]
+WARNING: [VRFC 10-3705] select index 98 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:69]
+WARNING: [VRFC 10-3705] select index 102 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:71]
+WARNING: [VRFC 10-3705] select index 106 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:72]
+WARNING: [VRFC 10-3705] select index 110 into 'I_Mem' is out of bounds [D:/Vivado project/LSI/Assignment/Assignment.srcs/sources_1/new/Instruction_Memory.v:74]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

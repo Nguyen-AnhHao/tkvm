@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Data write at address 0: a5
+Data read at address 0: a5
+Data write at address 1: 3c
+Data read at address 1: 3c
+Data write at address 2: ff
+Data read at address 2: ff
+Data read at address 3: xx
+$finish called at time : 110 ns : File "D:/Vivado project/project_1/project_1.srcs/sim_1/new/memory_tb.v" Line 103
